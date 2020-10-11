@@ -9,11 +9,11 @@ weather.temperature = {
 };
 
 // Change to 'F' for Fahrenheit
-var tempUnit = 'C';
+var tempUnit = 'F';
 
 const KELVIN = 273.15;
 // Use your own key for the Weather, Get it here: https://openweathermap.org/
-const key = 'aa5b0a76dfbf87541928fb3cc32d3d69';
+const key = 'c6393545eb15051bdf2dbfc83093eb82';
 
 // Set Position function
 setPosition();
